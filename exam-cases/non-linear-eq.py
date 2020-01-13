@@ -44,7 +44,7 @@ def fixedpointitersearch(x0 : float, eps : float, g):
     return x0
 
 
-tol = 1e-8
+tol = 1e-5
 # x = np.arange(-5, 5, 0.1)
 # y = func(x)
 # suspicions = [-2.0, 0.2, 2.0]

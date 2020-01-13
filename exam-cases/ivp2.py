@@ -1,5 +1,5 @@
 import numpy as np 
-from scipy.integrate import RK45, odeint, solve_ivp
+from scipy.integrate import solve_ivp
 from matplotlib import pyplot as plt 
 
 def func(x, y):
