@@ -1,6 +1,6 @@
 # zhovtobruhd/numerical-methods
 
-This repository is a result of completing Numerical Methods course at Simon Kuznets Kharkiv National University of Economics
+This repository is a result of completion of Numerical Methods course at Simon Kuznets Kharkiv National University of Economics
 
 There are some notebooks that will help you to understand basics of numerical methods, such as approximation, interpolation and solving linear equations.  
 
